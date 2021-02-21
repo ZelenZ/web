@@ -5,8 +5,8 @@ IntroCS pd 2 sec 2
 HW05 Stuylin 
 2021-02-19
 */
-body {font-family: "Arial";
-color: #ffffff;
-background-color: #000000;}
-h1 {color: #ff0000;}
-h3 {color: #ffff00;}
+body {font-family: "Arial" /*changes font family to Arial*/;
+color: #ffffff /*changes color to white*/;
+background-color: #000000 /*changes background color to black*/;}
+h1 {color: #ff0000 /*changes color to red*/;}
+h3 {color: #ffff00 /*changes color to yellow*/;}
